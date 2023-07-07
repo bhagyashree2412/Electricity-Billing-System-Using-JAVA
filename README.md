@@ -1,4 +1,4 @@
-![2021-06-21](https://github.com/bhagyashree2412/Electricity-Billing-System-Using-JAVA/assets/109951666/55fbde1c-9666-4546-acfd-f75c9dc51162)# Electricity-Billing-System-Using-JAVA 
+Electricity-Billing-System-Using-JAVA 
 
 ABOUT
 The purpose of an electricity billing system using Java, or any programming language, is to automate the process of generating and managing bills for electricity consumption by customers
